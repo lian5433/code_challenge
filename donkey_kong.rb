@@ -16,6 +16,6 @@ class DonkeyKong
 end
 
 
-puts "hello"
+
 donkey_kong = DonkeyKong.new
 donkey_kong.print
